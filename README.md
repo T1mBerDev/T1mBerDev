@@ -5,6 +5,11 @@
 - Python
 - Lua
 
+Less important ones:
+
+- English
+- German
+
 <!--
 **T1mBerDev/T1mBerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
