@@ -1,4 +1,9 @@
-### Hi there 👋
+### Languages
+
+- C#
+- Typescript
+- Python
+- Lua
 
 <!--
 **T1mBerDev/T1mBerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
