@@ -1,12 +1,12 @@
 ### Languages
 
-- Rust
+- Rust 🦀
 - C#
 - Typescript
 - Python
 - Lua
 
-Less important ones:
+#### Less important ones:
 
 - English
 - German
